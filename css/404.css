@@ -1,0 +1,18 @@
+@import "../css/templatemo-nomad-force.css";
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700");
+
+.container {
+  height: 100vh;
+  font-family: "Montserrat", "sans-serif";
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  a {
+    color: #2787EA;
+    text-decoration: underline;
+  }
+}
